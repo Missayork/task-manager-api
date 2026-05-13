@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.8",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
           "Swashbuckle.AspNetCore": "10.1.7",
           "TaskManager.Core": "1.0.0",
           "TaskManager.Infrastructure": "1.0.0"
@@ -779,6 +780,7 @@
       },
       "TaskManager.Infrastructure/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
           "TaskManager.Core": "1.0.0"
         },

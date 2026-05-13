@@ -1206,6 +1206,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
           "TaskManager.Core": "1.0.0"
         },
@@ -3590,6 +3591,7 @@
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0",
       "Swashbuckle.AspNetCore >= 10.1.7",
       "TaskManager.Core >= 1.0.0",
       "TaskManager.Infrastructure >= 1.0.0"
@@ -3659,6 +3661,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[9.0.0, )"
           },
