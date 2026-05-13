@@ -1,0 +1,12 @@
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.deps.json
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.dll
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.pdb
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.AssemblyInfoInputs.cache
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.AssemblyInfo.cs
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.sourcelink.json
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.dll
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\refint\TaskManager.Core.dll
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.pdb
+C:\Users\Misael Hernández\task-manager-api\TaskManager.Core\obj\Debug\net9.0\ref\TaskManager.Core.dll
